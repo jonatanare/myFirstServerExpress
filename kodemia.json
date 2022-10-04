@@ -35,13 +35,19 @@
       "name": "Rafael R",
       "gender": "m",
       "generation": 16
+    },
+    {
+      "id": 8,
+      "name": "Cintia Ruiz Verdugo",
+      "gender": "f",
+      "generation": 21
     }
   ],
   "mentors": [
     {
       "id": 1,
       "name": "Fernanda Palacios Vera",
-      "module": "backend js",
+      "module": "Backend js",
       "gender": "M"
     },
     {
@@ -96,6 +102,12 @@
       "id": 10,
       "name": "Mentor de Prueba",
       "module": "Modulo prueba",
+      "gender": "H"
+    },
+    {
+      "id": 11,
+      "name": "Fernando Herrera",
+      "module": "Backend js",
       "gender": "H"
     }
   ]
