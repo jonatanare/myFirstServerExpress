@@ -1,12 +1,6 @@
 {
   "koders": [
     {
-      "id": 1,
-      "name": "Cin Ruiz",
-      "gender": "f",
-      "generation": 21
-    },
-    {
       "id": 2,
       "name": "Jonatan Arevalo",
       "gender": "m",
@@ -22,13 +16,87 @@
       "id": 4,
       "name": "Jonatan Arevalo",
       "gender": "m",
-      "generator": 21
+      "generation": 21
     },
     {
       "id": 5,
       "name": "Jose Arevalo",
       "gender": "m",
-      "generator": 21
+      "generation": 21
+    },
+    {
+      "id": 6,
+      "name": "Arce Moon",
+      "gender": "f",
+      "generation": 16
+    },
+    {
+      "id": 7,
+      "name": "Rafael R",
+      "gender": "m",
+      "generation": 16
+    }
+  ],
+  "mentors": [
+    {
+      "id": 1,
+      "name": "Fernanda Palacios Vera",
+      "module": "backend js",
+      "gender": "M"
+    },
+    {
+      "id": 2,
+      "name": "Victor Torres",
+      "module": "UX/UI",
+      "gender": "H"
+    },
+    {
+      "id": 3,
+      "name": "Daniel Cruz",
+      "module": "React Js",
+      "gender": "H"
+    },
+    {
+      "id": 4,
+      "name": "Verónica Nemecio",
+      "module": "SCRUM",
+      "gender": "M"
+    },
+    {
+      "id": 5,
+      "name": "Odon ML",
+      "module": "Fundamentos de Programación",
+      "gender": "H"
+    },
+    {
+      "id": 6,
+      "name": "Aldo Aldaco",
+      "module": "JavaScript",
+      "gender": "H"
+    },
+    {
+      "id": 7,
+      "name": "Aurora Escalera",
+      "module": "Algoritmos",
+      "gender": "M"
+    },
+    {
+      "id": 8,
+      "name": "Alfredo Altamirano",
+      "module": "Python",
+      "gender": "H"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Ortega",
+      "module": "React Native",
+      "gender": "H"
+    },
+    {
+      "id": 10,
+      "name": "Mentor de Prueba",
+      "module": "Modulo prueba",
+      "gender": "H"
     }
   ]
 }
